@@ -19,7 +19,7 @@
     let number=0;
     let myArray=[];
     let interval;
-    myApp=[ ]
+    
     
    
 
