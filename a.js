@@ -117,7 +117,7 @@
           }
     }
     function startTimer(){
-        let timeLimit=2;
+        let timeLimit=15;
         remainingTime.innerHTML=timeLimit;
         remainingTime.classList.remove("less-time");
         interval=setInterval(()=>{
